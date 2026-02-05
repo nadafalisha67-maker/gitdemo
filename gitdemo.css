@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <style>
+      .hello {
+        font-size: 32px;
+        color: #4CAF50;
+        font-family: Arial, sans-serif;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="hello">Hello, World!</div>
+  </body>
+</html>
